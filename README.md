@@ -1,5 +1,29 @@
 # Sudoku.ME
- SUDOKU GENERATOR AND SOLVER 
+ SUDOKU GENERATOR AND SOLVER
+ 
+ ![WhatsApp Image 2022-12-21 at 23 25 06](https://user-images.githubusercontent.com/90182231/208979194-3d25d0c3-15ce-4d87-901d-24f4ffe1f0c5.jpeg)
+
+ 
+ ![WhatsApp Image 2022-12-21 at 23 31 16](https://user-images.githubusercontent.com/90182231/208979209-c516a79b-1398-4232-a8c1-7311d4639f8a.jpeg)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  EXAMPLE DEMO::)
  ********************
 THE SUDOKU PUZZLE TO BE SOLVED -->
